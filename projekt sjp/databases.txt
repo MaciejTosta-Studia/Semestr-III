@@ -1,0 +1,3 @@
+https://hole.cert.pl/domains/v2/domains.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://zonefiles.io/f/compromised/domains/live/
